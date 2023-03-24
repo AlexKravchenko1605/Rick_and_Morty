@@ -139,6 +139,7 @@ body {
 .wrapper_nav {
   display: flex;
   height: fit-content;
+  align-items: center;
   justify-content: space-evenly;
   margin-bottom: 20px;
 }
