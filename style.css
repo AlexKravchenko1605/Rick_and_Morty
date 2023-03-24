@@ -184,7 +184,7 @@ body {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 450px) {
   .modalWindow {
     flex-direction: column;
     width: 100vw;
