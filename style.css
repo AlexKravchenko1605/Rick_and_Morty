@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  max-width: 85%;
+  max-width: 56vw;
   margin: 0 auto;
 }
 
