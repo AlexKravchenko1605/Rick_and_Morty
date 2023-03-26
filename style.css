@@ -154,7 +154,7 @@ body {
   rotate: 180deg;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1800px) {
   .container{
   max-width:54vw
   }
