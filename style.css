@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  max-width: 54vw;
+  max-width: 40vw;
   margin: 0 auto;
 }
 
@@ -154,9 +154,9 @@ body {
   rotate: 180deg;
 }
 
-@media (min-width: 1400px) {
+@media (max-width: 1400px) {
   .container{
-  max-width:40vw
+  max-width:54vw
   }
 }
 
